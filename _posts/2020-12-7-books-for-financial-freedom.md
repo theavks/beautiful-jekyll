@@ -1,11 +1,6 @@
 ---
 layout: post
 title: 8 Books For Financial Freedom
-subtitle: 8 Books For Financial Freedom
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [Economy, Finance]
 ---
 
 There are numerous motivations to stress in this day and age. Work, family, governmental issues, and wellbeing concerns are ever-present, however top of brain for some, individuals is cash. Furthermore, that is on the grounds that dealing with your accounts can be distressing. You need secure funds to help yourself and your family. Business people who face monetary challenges to get their new companies moving must be particularly cautious.
